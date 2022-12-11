@@ -86,5 +86,7 @@ https://mangsby.com/blog/programming/c/c-c-sqlite-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB
 https://dojang.io/mod/page/view.php?id=1824
 https://wikidocs.net/110975
 https://web-programming-info.tistory.com/10
-+ 수업 과제물에 사용한 코드
+& 수업 과제물에 사용한 코드
 외에도 많은 링크가 도움되었지만 제 프로젝트에 실제로 사용된 링크만 넣었습니다.
+
+git에는 actuallyworks 파일만 올렸습니다. C로 구현하게 되면 다른것도 올릴 생각입니다.
