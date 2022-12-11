@@ -1,0 +1,9 @@
+Python
+https://www.python.org/
+PSF LICENSE AGREEMENT FOR PYTHON 3.11.1
+https://docs.python.org/3/license.html#psf-license
+
+SQLite
+https://www.sqlite.org/index.html
+Public Domain(아마도 표기 안해도 됨)
+https://www.sqlite.org/copyright.html
